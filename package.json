@@ -182,5 +182,6 @@
   },
   "lint-staged": {
     "*.{js,ts,tsx}": "eslint --quiet --fix --cache"
-  }
+  },
+  "packageManager": "yarn@3.0.1"
 }
